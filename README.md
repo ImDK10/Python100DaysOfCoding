@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Dilip Kumar (@ImDK10) working as Software Engineer {Pega CDH Developer} in Virtusa Blr
+- 👀 I’m interested in Software Development
+-  I'm Good at Pega PRPC, Pega CDH
+-  Python , Java, C# - Intermediate
+-  MySQL - Beginner
+- 🌱 I’m currently learning Python #100DaysOfCoding
+- 📫 How to reach me -> imdk6886@gmail.com
