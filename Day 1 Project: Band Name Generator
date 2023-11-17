@@ -1,0 +1,16 @@
+QUESTION:
+Take City & Pet names as user inputs and print the band name by concatenating them
+Make sure the input cursor should be on a new line.
+-----------------------------------------------------------------------------------
+SOLUTION:
+print("Welcome to the Band Name Generator.")
+City = input("What's the name of the city you grew up in?\n")
+Pet = input("What's your pet's name?\n")
+print("Your band name could be " + City + " " + Pet)
+
+OR
+
+print("Welcome to the Band Name Generator.")
+City,Pet = input("With a comma (',') in between enter the name of your city & pet\n").split(",")
+print("Your band name could be " + City + " " + Pet)
+----------------------------------------------------------------------------------
